@@ -45,7 +45,6 @@
             'punti_ospiti' => '68',
         ]
     ]
-
 ?>
 
 <!-- SEZIONE HTML -->
@@ -64,6 +63,7 @@
     <div class="container d-flex justify-content-center my-5">
         <div class="row w-50">
             <div class="col-12">
+                <h1 class="text-center text-primary pb-4">Campionato professionistico ad alti livelli di Basket</h1>
                 <ul class="list-group text-center">
                     <?php foreach($teams as $team){
                         ?>    
